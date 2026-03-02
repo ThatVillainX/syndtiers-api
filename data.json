@@ -1,0 +1,110 @@
+{
+  "queues": {
+    "Q1772434338513": {
+      "id": "Q1772434338513",
+      "userId": "1176550079746818073",
+      "username": "shadowitself_",
+      "gamemode": "Crystal",
+      "rounds": "BO7 (Best of 7)",
+      "server": "AS (Asia)",
+      "timestamp": 1772434338513,
+      "status": "accepted",
+      "testerId": "1182180835940638766",
+      "testerName": "villain.real"
+    },
+    "Q1772436716932": {
+      "id": "Q1772436716932",
+      "userId": "1176550079746818073",
+      "username": "shadowitself_",
+      "gamemode": "UHC",
+      "rounds": "BO3 (Best of 3)",
+      "server": "AS (Asia)",
+      "timestamp": 1772436716932,
+      "status": "accepted",
+      "testerId": "1182180835940638766",
+      "testerName": "villain.real"
+    },
+    "Q1772436919592": {
+      "id": "Q1772436919592",
+      "userId": "1176550079746818073",
+      "username": "shadowitself_",
+      "gamemode": "Diamond SMP Kit",
+      "rounds": "BO5 (Best of 5)",
+      "server": "AS (Asia)",
+      "timestamp": 1772436919592,
+      "status": "accepted",
+      "testerId": "1182180835940638766",
+      "testerName": "villain.real"
+    },
+    "Q1772437018014": {
+      "id": "Q1772437018014",
+      "userId": "1182180835940638766",
+      "username": "villain.real",
+      "gamemode": "Diamond SMP Kit",
+      "rounds": "BO3 (Best of 3)",
+      "server": "AS (Asia)",
+      "timestamp": 1772437018014,
+      "status": "accepted",
+      "testerId": "1176550079746818073",
+      "testerName": "shadowitself_"
+    }
+  },
+  "tiers": {
+    "1176550079746818073": {
+      "Crystal": "LT2",
+      "SMP Kit": "LT2",
+      "UHC": "LT3",
+      "Diamond SMP Kit": "HT1"
+    },
+    "1182180835940638766": {
+      "Diamond SMP Kit": "HT2"
+    }
+  },
+  "testHistory": [
+    {
+      "playerId": "1176550079746818073",
+      "playerName": "shadowitself_",
+      "testerId": "1182180835940638766",
+      "testerName": "villain.real",
+      "gamemode": "Crystal",
+      "tier": "LT2",
+      "timestamp": 1772434360619
+    },
+    {
+      "playerId": "1176550079746818073",
+      "playerName": "shadowitself_",
+      "testerId": "1182180835940638766",
+      "testerName": "villain.real",
+      "gamemode": "SMP Kit",
+      "tier": "LT2",
+      "timestamp": 1772435935906
+    },
+    {
+      "playerId": "1176550079746818073",
+      "playerName": "shadowitself_",
+      "testerId": "1182180835940638766",
+      "testerName": "villain.real",
+      "gamemode": "UHC",
+      "tier": "LT3",
+      "timestamp": 1772436737908
+    },
+    {
+      "playerId": "1176550079746818073",
+      "playerName": "shadowitself_",
+      "testerId": "1182180835940638766",
+      "testerName": "villain.real",
+      "gamemode": "Diamond SMP Kit",
+      "tier": "HT1",
+      "timestamp": 1772436940708
+    },
+    {
+      "playerId": "1182180835940638766",
+      "playerName": "villain.real",
+      "testerId": "1176550079746818073",
+      "testerName": "shadowitself_",
+      "gamemode": "Diamond SMP Kit",
+      "tier": "HT2",
+      "timestamp": 1772437046296
+    }
+  ]
+}
