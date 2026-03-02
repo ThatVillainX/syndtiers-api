@@ -1,5 +1,5 @@
 const http = require('http');
-const db = require('../database/db');
+const db = require('./db');
 
 // 🔥 FORCE correct port for your panel
 const PORT = process.env.PORT || 20035;
