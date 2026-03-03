@@ -1,5 +1,5 @@
 const http = require('http');
-const db = require('./database/db'); // ✅ FIXED PATH
+const db = require('./db'); // ✅ FIXED PATH
 
 const PORT = process.env.PORT || 3000;
 
